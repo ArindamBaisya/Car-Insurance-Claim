@@ -1,0 +1,8 @@
+
+1. Cleaned a data-set containing information of 100,000 customers
+2. Imputed the values for missing values using MICE(Multivariate Imputation via Chained Equations) package in R
+3. Used "Hot Encoding", Oversampling of data values to improve the model
+4. Used various classification techniques- Logistic Regression, Random Forest, SVM, QDA, kNN, LDA on the data 
+5. Used k-folds , LOOCV methods to validate the learning methods to get a final accuracy of 74% using Random Forest
+
+Inputs and mistakes if found out and pointed out, are much appreciated.
