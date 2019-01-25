@@ -1,0 +1,2 @@
+df=df[,-1];
+df <-subset(df, select = -c(Household_ID, Vehicle,Calendar_Year,Model_Year , Blind_Make,	Blind_Model,Blind_Submodel,	Cat1,Cat2,Cat3,	Cat4,Cat5,Cat6,Cat7,Cat8,Cat9,Cat10,Cat11, Cat12, OrdCat,NVCat));
